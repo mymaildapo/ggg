@@ -1,0 +1,23 @@
+<a class="btn btn-primary" href="/#/create/galway"><span class="glyphicon glyphicon-plus"></span> Create Library in Galway</a>
+<table class="table table-striped">
+  <thead>
+    <th>Town</th>
+    <th>Library Name</th>
+    <th>Address</th>
+    <th>Phone No</th>
+    <th>Public Toilet</th>
+     <th>Operation</th>
+  </thead>
+  <tbody>
+    <tr ng-repeat="g in galwayLibrary"> <!--galwayLibrary random name also appear in controller, $scope.galwayLibrary both name must match.-->
+      <td><a ng-href="/#/galway/{{g._id }}">{{ g.phone }}</a></td>
+      <td>{{ g.name }}</td><td>{{ g.address }}</td><td>{{ g.town }}</td><td>{{ g.toilet }}</td>
+      <td>
+        <div class="button-group">
+          <a ng-href="/#/galway/{{ g._id }}/edit" class="btn btn-default"><span class="glyphicon glyphicon-edit"></span></a>
+          <a ng-href="/#/galway/{{ g._id }}/delete" class="btn btn-danger"><span class="glyphicon glyphicon-remove-circle"></span></a>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>

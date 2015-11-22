@@ -1,0 +1,26 @@
+<a class="btn btn-primary" href="/#/create/dublin"><span class="glyphicon glyphicon-plus"></span> Create Library in Dublin</a>
+<table class="table table-striped">
+
+   <thead>
+    <th>Phone</th>
+    <th>Library Name</th>
+    <th>Address</th>
+    <th>Name</th>
+    <th>Public Toilet</th>
+     <th>Operation</th>
+  </thead>
+  <tbody>
+    <!--Repeat the tr element for every dublinLibrarydetails scope in the controller and for every dublinLibrary scope i assign a variable called g-->
+    <tr ng-repeat="g in dublinLibrary">
+                                      <!--referncing database field name. use the object property and PRINT IT out-->
+      <td><a ng-href="/#/dublin/{{g._id }}">{{ g.phone }}</a></td>
+      <td>{{ g.name }}</td><td>{{ g.address }}</td><td>{{ g.town }}</td><td>{{ g.toilet }}</td>
+      <td>
+        <div class="button-group">
+          <a ng-href="/#/dublin/{{ g._id }}/edit" class="btn btn-default"><span class="glyphicon glyphicon-edit"></span></a>
+          <a ng-href="/#/dublin/{{ g._id }}/delete" class="btn btn-danger"><span class="glyphicon glyphicon-remove-circle"></span></a>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
