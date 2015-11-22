@@ -1,0 +1,212 @@
+[
+  {
+    "FIELD1":"town",
+    "FIELD2":"name",
+    "FIELD3":"address",
+    "FIELD4":"phone",
+    "FIELD5":"toilet"
+  },
+  {
+    "FIELD1":"GALWAY COUNTY COUNCIL",
+    "FIELD2":"WESTSIDE LIBRARY",
+    "FIELD3":"SEAMUS QUIRKE ROAD",
+    "FIELD4":"+353 (0) 91 520616",
+    "FIELD5":"yes"
+  },
+  {
+    "FIELD1":"GALWAY COUNTY COUNCIL",
+    "FIELD2":"ROUNDSTONE PUBLIC LIBRARY",
+    "FIELD3":"ROUNDSTONE TOWN HALL",
+    "FIELD4":"+353 (0) 83 3959860",
+    "FIELD5":"yes"
+  },
+  {
+    "FIELD1":"GALWAY COUNTY COUNCIL",
+    "FIELD2":"ATHENRY PUBLIC LIBRARY",
+    "FIELD3":"SWAN GATE",
+    "FIELD4":"+353 (0) 91 845592",
+    "FIELD5":"yes"
+  },
+  {
+    "FIELD1":"GALWAY COUNTY COUNCIL",
+    "FIELD2":"WOODFORD PUBLIC LIBRARY",
+    "FIELD3":"WOODFORD",
+    "FIELD4":"+353 (0) 90 9749200",
+    "FIELD5":"no"
+  },
+  {
+    "FIELD1":"GALWAY COUNTY COUNCIL",
+    "FIELD2":"Leabharlann Cill Rónáin",
+    "FIELD3":"IONAD FIONTAIR CHOLM Ó HIARNÁIN",
+    "FIELD4":"+353 (0) 99 20937",
+    "FIELD5":"no"
+  },
+  {
+    "FIELD1":"GALWAY COUNTY COUNCIL",
+    "FIELD2":"TUAM LIBRARY",
+    "FIELD3":"HIGH STREET",
+    "FIELD4":"+353 (0) 93 24287",
+    "FIELD5":"no"
+  },
+  {
+    "FIELD1":"GALWAY COUNTY COUNCIL",
+    "FIELD2":"LEENANE PUBLIC LIBRARY",
+    "FIELD3":"LEENANE COMMUNITY HALL",
+    "FIELD4":"+353 (0) 95 42920",
+    "FIELD5":"no"
+  },
+  {
+    "FIELD1":"GALWAY COUNTY COUNCIL",
+    "FIELD2":"BALLYBANE PUBLIC LIBRARY",
+    "FIELD3":"BALLYBANE NEIGHBOURHOOD VILLAGE",
+    "FIELD4":"+353 (0) 91 380590",
+    "FIELD5":"no"
+  },
+  {
+    "FIELD1":"GALWAY COUNTY COUNCIL",
+    "FIELD2":"HEADFORD PUBLIC LIBRARY",
+    "FIELD3":"SAINT FARNANS HALL",
+    "FIELD4":"+353 (0) 93 36406",
+    "FIELD5":"yes"
+  },
+  {
+    "FIELD1":"GALWAY COUNTY COUNCIL",
+    "FIELD2":"EYRECOURT PUBLIC LIBRARY",
+    "FIELD3":"CHURCH LANE",
+    "FIELD4":"+353 (0) 90 9675056",
+    "FIELD5":"yes"
+  },
+  {
+    "FIELD1":"GALWAY COUNTY COUNCIL",
+    "FIELD2":"PORTUMNA LIBRARY",
+    "FIELD3":"CASTLE AVENUE",
+    "FIELD4":"+353 90 9741261",
+    "FIELD5":"no"
+  },
+  {
+    "FIELD1":"GALWAY COUNTY COUNCIL",
+    "FIELD2":"BALLYGAR LIBRARY",
+    "FIELD3":"MARKET SQUARE",
+    "FIELD4":"+353 (0) 90 6624919",
+    "FIELD5":"no"
+  },
+  {
+    "FIELD1":"GALWAY COUNTY COUNCIL",
+    "FIELD2":"DUNMORE PUBLIC LIBRARY",
+    "FIELD3":"HIGH STREET",
+    "FIELD4":"+353 (0) 93 38923",
+    "FIELD5":"no"
+  },
+  {
+    "FIELD1":"GALWAY COUNTY COUNCIL",
+    "FIELD2":"CLIFDEN PUBLIC LIBRARY",
+    "FIELD3":"MARKET STREET",
+    "FIELD4":"+353 (0) 95 21092",
+    "FIELD5":"no"
+  },
+  {
+    "FIELD1":"GALWAY COUNTY COUNCIL",
+    "FIELD2":"Leabharlann An Spidéal",
+    "FIELD3":"SPIDDAL WEST",
+    "FIELD4":"+353 (0) 91 504028",
+    "FIELD5":"yes"
+  },
+  {
+    "FIELD1":"GALWAY COUNTY COUNCIL",
+    "FIELD2":"BALLINASLOE PUBLIC LIBRARY",
+    "FIELD3":"MCNEVIN AVENUE",
+    "FIELD4":"+353 (0) 90 9643464",
+    "FIELD5":"no"
+  },
+  {
+    "FIELD1":"GALWAY COUNTY COUNCIL",
+    "FIELD2":"MOYLOUGH PUBLIC LIBRARY",
+    "FIELD3":"MOYLOUGH COMMUNITY CENTRE",
+    "FIELD4":"+353 (0) 90 9679072",
+    "FIELD5":"yes"
+  },
+  {
+    "FIELD1":"GALWAY COUNTY COUNCIL",
+    "FIELD2":"LOUGHREA PUBLIC LIBRARY",
+    "FIELD3":"CHURCH STREET",
+    "FIELD4":"+353 (0) 91 847220",
+    "FIELD5":"yes"
+  },
+  {
+    "FIELD1":"GALWAY COUNTY COUNCIL",
+    "FIELD2":"ORANMORE PUBLIC LIBRARY",
+    "FIELD3":"MAIN STREET",
+    "FIELD4":"+353 (0) 91 792117",
+    "FIELD5":"no"
+  },
+  {
+    "FIELD1":"GALWAY COUNTY COUNCIL",
+    "FIELD2":"Leabharlann An Cheathrú",
+    "FIELD3":"CARRAROE SOUTH",
+    "FIELD4":"+353 (0) 91 595733",
+    "FIELD5":"no"
+  },
+  {
+    "FIELD1":"GALWAY COUNTY COUNCIL",
+    "FIELD2":"GORT PUBLIC LIBRARY",
+    "FIELD3":"CHURCH ROAD",
+    "FIELD4":"+353 (0) 91 631224",
+    "FIELD5":"yes"
+  },
+  {
+    "FIELD1":"GALWAY COUNTY COUNCIL",
+    "FIELD2":"OUGHTERARD PUBLIC LIBRARY",
+    "FIELD3":"THE COURTHOUSE",
+    "FIELD4":"+353 (0) 91 557002",
+    "FIELD5":"yes"
+  },
+  {
+    "FIELD1":"GALWAY COUNTY COUNCIL",
+    "FIELD2":"Glenamaddy Library",
+    "FIELD3":"SAINT BRIGIDS HALL",
+    "FIELD4":"+353 (0) 94 9659734",
+    "FIELD5":"yes"
+  },
+  {
+    "FIELD1":"GALWAY COUNTY COUNCIL",
+    "FIELD2":"Inishbofin Library",
+    "FIELD3":"INISHBOFIN COMMUNITY CENTRE",
+    "FIELD4":"+353 (0) 95 45891",
+    "FIELD5":"yes"
+  },
+  {
+    "FIELD1":"GALWAY COUNTY COUNCIL",
+    "FIELD2":"Leabharlann Inis Meáin",
+    "FIELD3":"CARROWNTEMPLE",
+    "FIELD4":"+353 (0) 99 73126",
+    "FIELD5":"no"
+  },
+  {
+    "FIELD1":"GALWAY COUNTY COUNCIL",
+    "FIELD2":"Leabharlann Inis Oírr",
+    "FIELD3":"COMHAR CAOMHAN TEORANTA",
+    "FIELD4":"+353 (0) 99 75154",
+    "FIELD5":"no"
+  },
+  {
+    "FIELD1":"GALWAY COUNTY COUNCIL",
+    "FIELD2":"Killimor Public Library",
+    "FIELD3":"Main Street",
+    "FIELD4":"+353 (0) 90 9676062",
+    "FIELD5":"no"
+  },
+  {
+    "FIELD1":"GALWAY COUNTY COUNCIL",
+    "FIELD2":"Letterfrack Library",
+    "FIELD3":"Furniture College",
+    "FIELD4":"+353 (0) 91 742666",
+    "FIELD5":"no"
+  },
+  {
+    "FIELD1":"Galway County Council",
+    "FIELD2":"Galway City Library",
+    "FIELD3":"HYNES BUILDINGS",
+    "FIELD4":"+353 (0) 91 561666",
+    "FIELD5":"no"
+  }
+]
