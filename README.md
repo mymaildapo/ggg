@@ -88,4 +88,4 @@ you need to install yeoman bower and grunt on your computer!
 
 References
 https://github.com/mgonto/restangular
-![alt tag](https://www.youtube.com/watch?v=OhPFgqHz68og)
+
